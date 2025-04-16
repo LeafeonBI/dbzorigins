@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "DBZ origins",
+        "id": "dbz_origins",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "Allisia"
+        ],
+        "description": "Adds 3 new origins based off races from Dragon Ball Z"
+    }
+}
