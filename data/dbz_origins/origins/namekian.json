@@ -1,0 +1,14 @@
+{
+    "name": "Namekian",
+    "description": "You are a Namekian, an alien race that survives off water and has regenerative powers.",
+    "powers": [
+        "dbz_origins:ndrwn",
+        "dbz_origins:nmkregn",
+        "dbz_origins:nmkwatereat",
+        "dbz_origins:nmkdiet"
+    ],
+    "icon": {
+        "item": "lime_concrete"
+    },
+    "impact": 2
+}

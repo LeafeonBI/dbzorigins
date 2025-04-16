@@ -1,0 +1,8 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "dbz_origins:supersaiyan"
+    },
+    "type": "origins:creative_flight"
+}

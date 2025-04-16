@@ -1,0 +1,7 @@
+{
+    "name": "Voracious Appetite",
+    "description": "You have a faster metabolism than humans, so you need to eat more often.",
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 0.4
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Saiyan",
+    "description": "Slaying the Ender Dragon has unlocked the ability to go super saiyan within you, replacing your Oozaru form.",
+    "powers": [
+        "dbz_origins:supersaiyan",
+        "dbz_origins:synsprflyspd",
+        "dbz_origins:synspraura",
+        "dbz_origins:synhunger",
+        "dbz_origins:syncrit",
+        "dbz_origins:synsprflytog",
+        "dbz_origins:synsprstr",
+        "dbz_origins:synsprflygood",
+        "dbz_origins:synsprdrain",
+        "dbz_origins:synsprresource",
+        "dbz_origins:synsprregen"
+    ],
+    "icon": {
+        "item": "blaze_powder"
+    },
+    "unchoosable": true,
+    "impact": 3
+}

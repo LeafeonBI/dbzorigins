@@ -1,0 +1,16 @@
+{
+    "name": "Super Saiyan",
+    "description": "With your active ability keybind you are able to transform into your Super Saiyan state, making you move faster, attack harder, and fly.\n",
+    "condition": {
+        "type": "origins:resource",
+        "resource": "dbz_origins:synsprresource",
+        "comparison": ">",
+        "compare_to": 0
+    },
+    "type": "origins:toggle",
+    "active_by_default": true,
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "retain_state": true
+}

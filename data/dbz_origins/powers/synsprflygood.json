@@ -1,0 +1,14 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:creative_flying"
+    },
+    "type": "origins:modify_velocity",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1.25
+    },
+    "axes": [
+        "y"
+    ]
+}

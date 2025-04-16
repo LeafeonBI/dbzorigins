@@ -1,0 +1,28 @@
+{
+    "name": "Saiyan",
+    "description": "You are a Saiyan, a proud race of warriors.",
+    "powers": [
+        "dbz_origins:oozaru",
+        "dbz_origins:oozaruhealth",
+        "dbz_origins:oozaruscale",
+        "dbz_origins:oozarueffects",
+        "dbz_origins:synhunger",
+        "dbz_origins:syncrit",
+        "dbz_origins:synsuper",
+        "dbz_origins:oozarustephieght",
+        "dbz_origins:oozaruspeed",
+        "dbz_origins:oozaruscale_",
+        "dbz_origins:oozaruspeed_",
+        "dbz_origins:oozarustephieght_"
+    ],
+    "icon": {
+        "item": "lead"
+    },
+    "upgrades": [
+        {
+            "condition": "minecraft:end/kill_dragon",
+            "origin": "dbz_origins:saiyansuper"
+        }
+    ],
+    "impact": 3
+}

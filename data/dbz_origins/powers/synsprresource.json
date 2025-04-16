@@ -1,0 +1,20 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "dbz_origins:supersaiyan"
+    },
+    "type": "origins:resource",
+    "min": 0,
+    "max": 60,
+    "start_value": 60,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+        "bar_index": 14
+    },
+    "min_action": {
+        "type": "origins:toggle",
+        "power": "dbz_origins:supersaiyan"
+    }
+}

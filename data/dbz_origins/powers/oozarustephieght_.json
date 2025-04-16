@@ -1,0 +1,12 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:daytime"
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "/scale set pehkui:step_height 1 @s"
+    }
+}

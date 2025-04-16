@@ -1,0 +1,11 @@
+{
+    "name": "Vicious Crits",
+    "description": "Due to being from a race of warriors, you deal more damage on crits.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:critical_bonus_damage",
+        "operation": "addition",
+        "value": 0.125
+    },
+    "update_health": true
+}

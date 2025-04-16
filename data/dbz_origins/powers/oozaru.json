@@ -1,0 +1,14 @@
+{
+    "name": "Great Ape Form",
+    "description": "During a full moon you can transform into your monstrous Great Ape form, increasing your size and strength drastically. Once transformed you only turn back to normal when the sun rises.\n",
+    "condition": {
+        "inverted": true,
+        "type": "origins:daytime"
+    },
+    "type": "origins:toggle",
+    "active_by_default": true,
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "retain_state": false
+}

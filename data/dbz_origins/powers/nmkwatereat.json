@@ -1,0 +1,12 @@
+{
+    "name": "Water",
+    "description": "You can drink water to satiate yourself, and it is your only source of food.\n",
+    "type": "origins:action_on_item_use",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 6,
+        "saturation": 1
+    },
+    "trigger": "finish",
+    "priority": 0
+}

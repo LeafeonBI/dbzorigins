@@ -1,0 +1,11 @@
+{
+    "name": "Android",
+    "description": "You are an android, an artificial life form created by Dr. Gero.",
+    "powers": [
+        "dbz_origins:infeng"
+    ],
+    "icon": {
+        "item": "iron_ingot"
+    },
+    "impact": 1
+}

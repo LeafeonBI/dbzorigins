@@ -1,0 +1,16 @@
+{
+    "name": "Infinite Energy",
+    "description": "You don't need to eat as your infinite power core supplies you with all the energy you could ever need.\n",
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 1,
+    "max_stacks": 1,
+    "duration_per_stack": 10,
+    "tick_rate": 1,
+    "effect": {
+        "effect": "saturation",
+        "duration": 10000000,
+        "amplifier": 0,
+        "show_particles": false,
+        "show_icon": false
+    }
+}

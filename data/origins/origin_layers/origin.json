@@ -1,0 +1,9 @@
+{
+    "origins": [
+        "dbz_origins:android",
+        "dbz_origins:saiyan",
+        "dbz_origins:namekian",
+        "dbz_origins:saiyansuper"
+    ],
+    "enabled": true
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Oozaru Stat Changes",
+    "description": "The changes made to the players stats when in the oozaru form. (hidden)",
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "dbz_origins:oozaru"
+    },
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "generic.max_health",
+        "operation": "addition",
+        "value": 30
+    },
+    "tick_rate": 20,
+    "update_health": true
+}

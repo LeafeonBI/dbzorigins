@@ -1,0 +1,30 @@
+{
+    "name": "Oozaru Stat Changes",
+    "description": "The changes made to the players stats when in the oozaru form. (hidden)",
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "dbz_origins:oozaru"
+    },
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 1,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "tick_rate": 10,
+    "effects": [
+        {
+            "effect": "resistance",
+            "duration": 100,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": false
+        },
+        {
+            "effect": "strength",
+            "duration": 100,
+            "amplifier": 1,
+            "show_particles": false,
+            "show_icon": false
+        }
+    ]
+}

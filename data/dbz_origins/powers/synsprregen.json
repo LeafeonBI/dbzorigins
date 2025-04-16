@@ -1,0 +1,16 @@
+{
+    "hidden": true,
+    "condition": {
+        "inverted": true,
+        "type": "origins:power_active",
+        "power": "dbz_origins:supersaiyan"
+    },
+    "type": "origins:action_over_time",
+    "interval": 40,
+    "entity_action": {
+        "type": "origins:change_resource",
+        "resource": "dbz_origins:synsprresource",
+        "change": 1,
+        "operation": "add"
+    }
+}

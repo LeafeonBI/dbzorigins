@@ -1,0 +1,14 @@
+{
+    "name": "Oozaru Stat Changes",
+    "description": "The changes made to the players stats when in the oozaru form. (hidden) Makes you 5 blocks tall.",
+    "hidden": true,
+    "condition": {
+        "type": "origins:daytime"
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "/scale set pehkui:base 1 @s"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "dbz_origins:supersaiyan"
+    },
+    "type": "origins:modify_attribute",
+    "attribute": "generic.attack_damage",
+    "modifier": {
+        "operation": "addition",
+        "value": 9
+    }
+}
